@@ -23,7 +23,7 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
 
 * [MISC](Misc/)
 
-  <sub>I MISC hamnar övriga uppgifter som inte riktigt platsar in i någon av de andra kategorierna.</sub>
+  <sub>I MISC hamnar övriga uppgifter som inte riktigt platsar in i någon av de andra kategorierna. Det kan även vara en kombination av flera kategorier, där det inte går att placera in uppgiften i en "huvudkategori".</sub>
   - [Glenn](Misc/Glenn)
   
 
