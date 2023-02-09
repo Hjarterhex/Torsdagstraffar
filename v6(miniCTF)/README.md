@@ -32,8 +32,9 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
 * [OSINT](OSINT/)
 
   <sub>OSINT - Open Source Intelligence. Samla in information och lista ut flaggan genom att använda öppna källor för information. Detta innefattar ofta: Sociala medier, Google, Kartor och liknande.</sub>
-  - [Gator och torg](OSINT/Gator%20och%20torg.pong)
-  - [Jane Doe](OSINT/Jane_De)
+  - [Gator och torg](OSINT/Gator%20och%20torg.png)
+  - [Jane Doe](OSINT/Jane_Doe)
+  - [HexyMastah](OSINT/HexyMastah)
   
 
 * [Programmering](Programmering/)
