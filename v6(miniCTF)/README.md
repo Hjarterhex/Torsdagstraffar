@@ -41,6 +41,7 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
 
   <sub>Programmering- Ofta innebär detta reverse-engineering i CTF-sammanhang. Detta innebär att du behöver ta en titt på källkoden, alternativt testa olika inputs till dess att du får ett hum av hur programmet fungerar. Använd sedan denna kunskap för att exploatera programmet till din fördel.</sub>
   - [decryp](Programmering/decrypt.py)
+  - [gibberish_maybe(2.0)](Programmering/gibberish_maybe(2.0).py)
   
 
 * [Steganografi](Steganografi/)
