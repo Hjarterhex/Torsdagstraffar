@@ -11,6 +11,7 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   - [H4ckz0r](Forensik/H4ckz0r.zip)
   - [hello](Forensik/hello.zip)
   - [alla_flaggor](Forensik/alla_flaggor.docx)
+  - [Not In Paint](Forensik/not_in_paint.jpg)
 
 * [Kryptering](Kryptering/)
 
@@ -21,16 +22,18 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   - [qr_again](Kryptering/qr_again.png)
   
 
-* [MISC](Misc/)
+* [MISC](MISC/)
 
   <sub>I MISC hamnar övriga uppgifter som inte riktigt platsar in i någon av de andra kategorierna. Det kan även vara en kombination av flera kategorier, där det inte går att placera in uppgiften i en "huvudkategori".</sub>
-  - [Glenn](Misc/Glenn)
+  - [Glenn](MISC/Glenn)
+  - [Good Luck Chuck](MISC/GoodLuckChuck.7z)
   
 
 * [OSINT](OSINT/)
 
   <sub>OSINT - Open Source Intelligence. Samla in information och lista ut flaggan genom att använda öppna källor för information. Detta innefattar ofta: Sociala medier, Google, Kartor och liknande.</sub>
-  - [Gator och torg](OSINT/Gator%20och%20torg.png)
+  - [Gator och torg](OSINT/Gator%20och%20torg.pong)
+  - [Jane Doe](OSINT/Jane_De)
   
 
 * [Programmering](Programmering/)
