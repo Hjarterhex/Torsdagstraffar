@@ -51,7 +51,7 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   <sub>Steganografi är konsten och vetenskapen att skriva hemliga meddelanden så att bara den avsedda mottagaren känner till att meddelandet alls finns; detta står i kontrast med kryptografi, där själva meddelandets existens inte är dold, men meddelandets innehåll är dolt</sub>
   - [BlackAndYellow](Stegonografi/BlackAndYellow.pdf)
   - [Hidden.wav](Stegonografi/Hidden.wav)
-  - [Portal 2](Stegonografi/Portal%202%20(Svår).wav)
+  - [Portal 2](Stegonografi/Portal_2.wav)
   - [last_qr](Stegonografi/last_qr.png)
   - [whatisthisdinosaurhidig](Stegonografi/whatisthisdinosaurhidig.jpg)
   
