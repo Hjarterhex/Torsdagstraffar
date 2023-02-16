@@ -1,0 +1,5 @@
+Linux, exif -> grep HEX{
+
+HxD -> ctrl + f HEX{
+
+Flagga: HEX{Y0u_mas73r3d_EXIF}

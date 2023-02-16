@@ -1,0 +1,5 @@
+Linux: steghide extract -sf whatisthisdinosaurhiding -> cat txt
+
+Browser: https://futureboy.us/stegano/decinput.html -> Flag
+
+flagga: HEX{y0u_Unl0cK3d_Ba51C_Stegonography}

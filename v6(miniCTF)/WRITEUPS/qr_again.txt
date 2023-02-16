@@ -1,0 +1,5 @@
+När man skannar qr koden får man fram morsekod. 
+--.- .-. ..--.- .- -. -.. ..--.- -- ----- .-. ... .
+Denna morsekod ger oss:
+QR_AND_M0RSE
+som är flaggan.

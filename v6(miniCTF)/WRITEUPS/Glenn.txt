@@ -1,0 +1,10 @@
+Först krypterat i base 64
+Sedan krypterat i caesar schiffer
+texten visar “Hotell Gripen”
+Med lite OSINT ska man inse att hotell gripen egentligen syftar på fängelse, mer specifikt häktet i Göteborg. Extra hint att det är just häktet i gbg är att personen Christoffer är med heter Glenn Söker man på “Hotell Gripen” dyker det även upp artiklar osv med häktet i gbg, som verkligen ser ut som ett hotell.
+
+
+
+Flagga: HEX{57.705179767090954, 11.982113535857554}
+
+(koordinaterna till häktet i gbg)

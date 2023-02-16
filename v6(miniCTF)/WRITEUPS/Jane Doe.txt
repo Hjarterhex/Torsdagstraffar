@@ -1,0 +1,8 @@
+Jane Doe
+
+Början på mejladressen är även Janes användarnamn på instagram. På hennes konto + googlande går det att OSINTa sig fram till vilken stad hon bor i och vilken arbetsplats hon har (Arken spa nånting i Göteborg)
+
+
+Flaggan finns som en kommentar på aretsplatsens Instagrams pinnade inlägg.
+
+HEX{Unc0vering_Jane_D0e}

@@ -1,0 +1,3 @@
+Läs QR med telefon/onlineverktyg
+
+flagga: HEX{Easy_QR}

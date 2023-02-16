@@ -1,0 +1,3 @@
+ROT19 / ROT-7
+
+flagga: HEX{ROT13_t0o_ba51c_f0R_m3}

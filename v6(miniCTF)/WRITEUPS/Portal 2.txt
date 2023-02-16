@@ -1,0 +1,7 @@
+Ladda ner ljudfilen
+Ladda ner ett program som heter Soundpad och även RX-SSTV
+Öppna RX-SSTV och ställ in den på Robot36 format
+Lägg in ljudfilen i Soundpad, högerklicka på ljudfilen och välj “Spela upp ifrån mikrofon”
+Håll koll på RX-SSTV bilden och flaggan kommer att visas där (Note: Det behöver vara rätt så tyst så att bilden visas korrekt, eftersom den fortfarande verkar spela ifrån mikrophonen litegranna)
+
+
