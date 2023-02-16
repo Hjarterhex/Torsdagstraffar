@@ -1,0 +1,5 @@
+Öppna filen
+Sök efter HEX{ (eller endast { ) och kopiera strängen, spara på valfritt ställe
+Sök efter } och kopiera strängen, kombinera med föregående sträng.
+Flagga:
+HEX{bUzz_buZZ_saiD_th3_b33}
