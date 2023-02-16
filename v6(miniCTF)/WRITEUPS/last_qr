@@ -1,6 +1,6 @@
 Om man scannar QR koden så får man ingen flagga. Man får bara ett meddelande “Detta är inte flaggan :(”
 
 Men om man öppnar filen i photoshop och sänker ljusstrykan och kontrasten, så ser man flaggan:
-
+https://github.com/Hjarterhex/Torsdagstraffar/blob/main/v6(miniCTF)/WRITEUPS/last_qr.png
 
 Flagga: HEX{T3X1_1N_1M@GE}
