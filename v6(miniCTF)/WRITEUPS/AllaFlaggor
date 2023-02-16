@@ -1,0 +1,12 @@
+Packa upp .docx med t ex 7zip och sök genom xmlfilerna.
+Styles.xml innehåller
+<!--Hej! 50 72 65 74 74 79 20 70 69 63 74 -->
+Theme1.xml innehåller
+<!--Hej igen! 75 72 65 73 20 69 6e-->
+App.xml innehåller
+<!-- Hej igen! 20 74 68 65 20 64 6f 63 75 6d 65 6e 74 -->
+Kombinerat och översatt från hex ger texten:
+Pretty pictures in the document
+Kontrollera hexdata för bilderna, exv med HxD eller hexdump i linux
+Image5.jpg innehåller då texten
+HEX{tAsTy_tAsTy_c1nnam0n_bUn}
