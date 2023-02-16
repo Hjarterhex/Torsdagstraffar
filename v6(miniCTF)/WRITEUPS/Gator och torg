@@ -1,0 +1,10 @@
+Det finns flera sätt att lösa denna uppgiften, men flaggan som man ska få är HEX{namn_på_torg}. Det är alltså ingen flagga gömd i bilden, utan man ska hitta var man är!
+
+Ifrån bilden så kan man se flera intressanta saker:
+En röd london buss
+En butik som heter “Lillywhites”
+En känd staty
+
+Genom att söka på “Lillywhites” i Google så ser man bland annat att det finns en butik mitt vid Picadilly Circus i London. Och om man går ner till street view, så kan man till och med se att det stämmer med bilden som man fick!
+
+Flaggan är då: HEX{Picadilly_Circus}
