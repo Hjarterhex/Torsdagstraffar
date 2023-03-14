@@ -1,0 +1,1 @@
+Såhär enkelt kan en skriva ut innehållet från en fil i terminalen!

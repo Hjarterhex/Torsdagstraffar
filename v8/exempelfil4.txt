@@ -1,0 +1,12 @@
+abcdefg
+abcdef
+abcde
+abcd
+abc
+ab
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+ABCDEFG
