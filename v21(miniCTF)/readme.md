@@ -9,6 +9,7 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   <sub>De här filerna tycks fullständigt slumpmässiga, men ska tydligen kunna hjälpa för att ta sig in i
   zipfilen?<sub>
   - [randomFiles](Forensik/randomFiles.zip)
+  - [UlJyfVJfWlo=.zip](Forensik/UlJyfVJfWlo=.zip)
 
 * [OSINT](OSINT/)
 
