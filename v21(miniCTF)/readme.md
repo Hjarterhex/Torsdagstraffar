@@ -5,13 +5,18 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
 * [Forensik](Forensik/)
 
   <sub>I sammanhang av CTF, kan "Forensik"/"Forensics"-uppgifter handla om filformatanalys, nätverkstrafiksanalys, memdumpanalys, pussla ihop krypterade bitar av olika filer och liknande.</sub>
-  
+  - [UlJyfVJfWlo=.zip](Forensik/UlJyfVJfWlo=.zip)
+  - [Black and yellow maybe](Forensik/BlackAndYellowMaybe.pdf)
+
+
   <sub>De här filerna tycks fullständigt slumpmässiga, men ska tydligen kunna hjälpa för att ta sig in i
   zipfilen?<sub>
   - [randomFiles](Forensik/randomFiles.zip)
-  - [UlJyfVJfWlo=](Forensik/UlJyfVJfWlo=.zip)
+
   
 * [Crypto](Crypto)
+  
+    <sub>Krypteringsuppgifter handlar om att lista ut- och dekryptera, flaggan. Ett mycket användbart verktyg för detta är [CyberChef](https://cyberchef.org/) </sub>
   
   - [NaNaNaaNNNaNNaN](Crypto/NaNaNaaNNNaNNaN.docx)
   - [TROLOLOLTROLROTLROTRLTROTRLTROTLOl](Crypto/TROLOLOLTROLROTLROTRLTROTRLTROTLOl.txt)
@@ -43,3 +48,13 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   <sub>Web- Web i CTF-sammanhang innebär exploatering av svagheter i webbservrar, databaser, javascript osv. I detta fallet är det inget så avancerat.</sub>
   
   - [Various Web](Web/variousWeb)
+  
+* [MISC](MISC/)
+
+  <sub>I MISC hamnar övriga uppgifter som inte riktigt platsar in i någon av de andra kategorierna. Det kan även vara en kombination av flera kategorier, där det inte går att placera in uppgiften i en "huvudkategori".</sub>
+  
+  - [Aliens?!](MISC/alienssss.gif)
+  
+  <b>Fysiska uppgifter, kan endast lösas på plats!</b>
+    <br>Utrymningsledare
+    <br>Flashy
