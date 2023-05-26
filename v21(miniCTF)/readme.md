@@ -9,8 +9,13 @@ Alla flaggor har formatet: **HEX{XXXXXXXXX}**
   <sub>De här filerna tycks fullständigt slumpmässiga, men ska tydligen kunna hjälpa för att ta sig in i
   zipfilen?<sub>
   - [randomFiles](Forensik/randomFiles.zip)
-  - [UlJyfVJfWlo=.zip](Forensik/UlJyfVJfWlo=.zip)
-
+  - [UlJyfVJfWlo=](Forensik/UlJyfVJfWlo=.zip)
+  
+* [Crypto](Crypto)
+  
+  - [NaNaNaaNNNaNNaN](Crypto/NaNaNaaNNNaNNaN.docx)
+  - [TROLOLOLTROLROTLROTRLTROTRLTROTLOl](Crypto/TROLOLOLTROLROTLROTRLTROTRLTROTLOl.txt)
+  
 * [OSINT](OSINT/)
 
   <sub>OSINT - Open Source Intelligence. Samla in information och lista ut flaggan genom att använda öppna källor för information. Detta innefattar ofta: Sociala medier, Google, Kartor och liknande.</sub>
